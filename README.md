@@ -12,8 +12,10 @@ polucount.bot adalah bot yang dapat menghitung karbon yang dihasilkan oleh kenda
 * Pesawat
 * Kapal Laut
 
-# Teknologi
+## Teknologi
 Projek ini menggunakan `python 3.11`. Library yang digunakan antara lain:
 * `discord.py`
 * `numpy`
 * `scipy`
+* `tensorflow`
+* `teachable machine`
